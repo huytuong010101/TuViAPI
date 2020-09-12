@@ -3,7 +3,8 @@
 You must install Python first (recommend python 3.8)
 
 ```
-cd to this repository
+git clone git@github.com:huytuong010101/TuViAPI.git
+cd TuViAPI
 python -m pip install -r requirements.txt
 ```
 
