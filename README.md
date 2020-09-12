@@ -5,3 +5,5 @@
 # How to start server?
 - python TuViAPI\manage.py runserver [port] ( Ex: python TuViAPI\manage.py runserver 8000)
 - The website at localhost:port
+# How to restart server?
+- In Django, restarting automatically every time you modify any .py file
