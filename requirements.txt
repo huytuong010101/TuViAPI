@@ -3,7 +3,6 @@ attrs==17.4.0
 colorama==0.4.3
 Django==3.1.1
 ephem==3.7.6.0
-lasotuvi==0.1.1
 more-itertools==4.1.0
 mypy==0.580
 pluggy==0.6.0
